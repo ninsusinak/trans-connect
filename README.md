@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# About This App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+the intention of this app is to create a hybrid of a blog publishing site and a social media site that takes insperation from early facebook where your social aspect was fully within your control with who you connect to, but also still be able to publish thoughts and ideas more widely, specificaly focused on the trans community as all other social medias do not provide a safe space for trans people, and hate is being proliferated under the false guise of a "free speech", my hope is the site will have general "free expression" not free speech as in people will be free to express ideas but not in ways that hurt, dehumanise and deligitimise others. 
 
-## Available Scripts
+but atm thats a pipe dream, i have a lot of code to write before i get there :)
+
+## Usual React Run Scripts & Info
 
 In the project directory, you can run:
 
@@ -39,32 +41,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
