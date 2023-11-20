@@ -1,0 +1,20 @@
+/* SpinningLogo.css */
+
+.spinning-logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #333; /* Dark grey background color */
+  }
+  
+  .spinning-logo {
+    width: 100px; /* Adjust the width as needed */
+    height: 100px; /* Adjust the height as needed */
+    animation: spin 2s linear infinite; /* Rotate animation */
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
