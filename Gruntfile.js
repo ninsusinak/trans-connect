@@ -43,5 +43,5 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-imagemin');
   
     // Default task(s).
-    grunt.registerTask('default', ['uglify', 'cssmin', 'imagemin', 'watch']);
+    grunt.registerTask('default', ['uglify', 'cssmin', 'imagemin']);
   };
