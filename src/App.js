@@ -1,9 +1,5 @@
 // App.js
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Route, Routes, Navigate   } from 'react-router-dom';
-import Header from './components/Header';
-import PostList from './components/PostList';
-import UserProfile from './components/UserProfile';
 import Menu from './components/Menu';
 import Loading from './components/Loading';
 
